@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=3&fontColor=ffffff&height=120&section=header&text=Hi%20I'm%20rongrong&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=3&fontColor=ffffff&height=120&section=header&text=Hi%20I'm%20RongRong&fontSize=45)
 <br><br>
 <h2 align=center>My Skills</h2>
   <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
